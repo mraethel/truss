@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'>
+	<!--beam-->
+	<line x1='0' y1='0' x2='0' y2='1000' stroke='#aaaaaa' stroke-width='200'/>
+	<line x1='1000' y1='0' x2='1000' y2='1000' stroke='#aaaaaa' stroke-width='200'/>
+
+	<!--crossbeam-->
+	<line x1='0' y1='0' x2='1000' y2='1000' stroke='#aaaaaa' stroke-width='50'/>
+</svg>
